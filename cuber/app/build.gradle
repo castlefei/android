@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.chaquo.python'
+
+android {
+    flavorDimensions "abi"
+    productFlavors {
+        arm {
+            dimension "abi"
+            ndk { abiFilters "armeabi-v7a" }
+        }
+        x86 {
+            dimension "abi"
+            ndk { abiFilters "x86" }
+        }
+    }
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.specknet.orientandroid"
+        minSdkVersion 25
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+        python {
+          //  buildPython "C:\\Users\\Nikoleta\\Miniconda3\\python.exe"
+            pip {
+                install "scipy"
+                install "pandas"
+                install "sklearn"
+            }
+        }
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation 'com.polidea.rxandroidble2:rxandroidble:1.7.0'
+    implementation 'com.opencsv:opencsv:4.2'
+    implementation 'pub.devrel:easypermissions:2.0.1'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+}
