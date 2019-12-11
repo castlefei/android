@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#31465a"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="133dp"
+        android:layout_height="43dp"
+        android:layout_marginBottom="44dp"
+        android:background="#BCC6CC"
+        android:enabled="false"
+        android:text="Start"
+        android:textColor="#E5E4E2"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.176"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/plot_button"
+        android:layout_width="133dp"
+        android:layout_height="43dp"
+        android:layout_marginBottom="44dp"
+        android:background="#2bb358"
+        android:text="Plot"
+        android:textColor="#E5E4E2"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.823"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <!--    <ImageView-->
+<!--        android:id="@+id/imageView3"-->
+<!--        android:layout_width="313dp"-->
+<!--        android:layout_height="261dp"-->
+<!--        android:layout_marginTop="56dp"-->
+<!--        android:src="@drawable/greyring"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.0" />-->
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="213dp"
+        android:layout_height="197dp"
+        android:src="@drawable/greyshoes"
+        app:layout_constraintBottom_toBottomOf="@+id/progressArcView"
+        app:layout_constraintEnd_toEndOf="@+id/progressArcView"
+        app:layout_constraintStart_toStartOf="@+id/progressArcView"
+        app:layout_constraintTop_toTopOf="@+id/progressArcView" />
+
+    <com.specknet.orientandroid.ProgressArcView
+        android:id="@+id/progressArcView"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.specknet.orientandroid.TimeView
+        android:id="@+id/captureTimetextView"
+        android:layout_width="95dp"
+        android:layout_height="50dp"
+        android:textColor="#BCC6CC"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/start_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/steps"
+        app:layout_constraintVertical_bias="0.04" />
+
+    <TextView
+        android:id="@+id/steps"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textAlignment="center"
+        android:textColor="#BCC6CC"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/progressArcView" />
+
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/progressArcView"
+        app:layout_constraintVertical_bias="0.0">
+
+        <RadioButton
+            android:id="@+id/walk_radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="#2ba358"
+            android:text="Walking"
+            android:textColor="#ffffff" />
+
+        <RadioButton
+            android:id="@+id/climb_radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="#ffd03b"
+            android:text="Climbing"
+            android:textColor="#ffffff" />
+
+        <RadioButton
+            android:id="@+id/run_radioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="#f15a29"
+            android:text="Running"
+            android:textColor="#ffffff" />
+    </RadioGroup>
+
+</android.support.constraint.ConstraintLayout>
