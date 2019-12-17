@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/c42b483f8abc104d549bb6fedb5501ca/AndroidManifest.xml:2:1-11:12
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:2:1-18:12
+MERGED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:2:1-19:12
+MERGED from [com.androidplot:androidplot-core:1.5.7] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/489ac75e2355847134e9b0dd0143e893/AndroidManifest.xml:21:1-30:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/0f955f78444e50b0df768d2fcbcfb651/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ab731d8491153d04795bcf22a31d478b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/1b6d34833b230ebc6ef6477aeda4f0a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/8c30c615f540b0ab406247b1ebff7fef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/15feec9976c392e294e6053ad04b064e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/5e03f7dcb3aa05d1e2c0accbb0db6b8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/80dd1b0b54762be2429c68985684d8f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/9b98cbda59dc1702edce583cdc48d412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ded0a95195f0787469a1e157820d966d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/cd960d56d3fc03588afcb99a81c6bb95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/bedd89141088759cc962c0666cec2033/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/de9988bc12d48fb04a61842ebc9c43a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/b3b34af16cd6f162a74bafc309563d32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ac3b1dae24010a5428de8745f551cea3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/4ad5681d75f44e540d48400a3e87cf3a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/41ea94d023271f5997b7594e9fa0f1c6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/694ab573ac55458410cc7812b77c95fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/172da902943a6b4324cf3729f73092e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3d9fdeae7a08a577b2ea9456f1631a90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/fe5e91411d916c88f42e09ec8c3eb54d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/b510b2d9464e4fc42265bb890b2e512d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/0063a42fda50fb074eefc4cbc415502e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/788605cb58074c001c91b48fd7671e9f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/a5c50bf285f623711ea6e0e00db58980/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/d372a6e24ce1bc1a95aad959a2bb505e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/6bf983ff51586535f5ba475379d4a55c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.halfhp.fig:figlib:1.0.7] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/03996b7dfc946a87988df48bbf9fc9c5/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:11:5-68
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/c42b483f8abc104d549bb6fedb5501ca/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/c42b483f8abc104d549bb6fedb5501ca/AndroidManifest.xml:9:5-20
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:16:5-53
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:16:5-53
+MERGED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/4ad5681d75f44e540d48400a3e87cf3a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/4ad5681d75f44e540d48400a3e87cf3a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/41ea94d023271f5997b7594e9fa0f1c6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/41ea94d023271f5997b7594e9fa0f1c6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/4ad5681d75f44e540d48400a3e87cf3a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:18:9-63
+activity#com.specknet.cuberGraWin.MainActivity
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:screenOrientation
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:20:72-108
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:20:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.specknet.cuberGraWin.PlotActivity
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:27:9-34:20
+	android:screenOrientation
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:30:13-50
+	android:label
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:27:19-71
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml:31:13-33:29
+uses-sdk
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/c42b483f8abc104d549bb6fedb5501ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/c42b483f8abc104d549bb6fedb5501ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:7:5-9:41
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.androidplot:androidplot-core:1.5.7] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/489ac75e2355847134e9b0dd0143e893/AndroidManifest.xml:26:5-28:41
+MERGED from [com.androidplot:androidplot-core:1.5.7] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/489ac75e2355847134e9b0dd0143e893/AndroidManifest.xml:26:5-28:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/0f955f78444e50b0df768d2fcbcfb651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/0f955f78444e50b0df768d2fcbcfb651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ab731d8491153d04795bcf22a31d478b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ab731d8491153d04795bcf22a31d478b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/1b6d34833b230ebc6ef6477aeda4f0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/1b6d34833b230ebc6ef6477aeda4f0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/8c30c615f540b0ab406247b1ebff7fef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/8c30c615f540b0ab406247b1ebff7fef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/15feec9976c392e294e6053ad04b064e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/15feec9976c392e294e6053ad04b064e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/5e03f7dcb3aa05d1e2c0accbb0db6b8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/5e03f7dcb3aa05d1e2c0accbb0db6b8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/80dd1b0b54762be2429c68985684d8f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/80dd1b0b54762be2429c68985684d8f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/9b98cbda59dc1702edce583cdc48d412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/9b98cbda59dc1702edce583cdc48d412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ded0a95195f0787469a1e157820d966d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ded0a95195f0787469a1e157820d966d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/cd960d56d3fc03588afcb99a81c6bb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/cd960d56d3fc03588afcb99a81c6bb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/bedd89141088759cc962c0666cec2033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/bedd89141088759cc962c0666cec2033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/de9988bc12d48fb04a61842ebc9c43a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/de9988bc12d48fb04a61842ebc9c43a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/b3b34af16cd6f162a74bafc309563d32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/b3b34af16cd6f162a74bafc309563d32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ac3b1dae24010a5428de8745f551cea3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/ac3b1dae24010a5428de8745f551cea3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/4ad5681d75f44e540d48400a3e87cf3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/4ad5681d75f44e540d48400a3e87cf3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/41ea94d023271f5997b7594e9fa0f1c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/41ea94d023271f5997b7594e9fa0f1c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/694ab573ac55458410cc7812b77c95fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/694ab573ac55458410cc7812b77c95fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/172da902943a6b4324cf3729f73092e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/172da902943a6b4324cf3729f73092e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3d9fdeae7a08a577b2ea9456f1631a90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3d9fdeae7a08a577b2ea9456f1631a90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/fe5e91411d916c88f42e09ec8c3eb54d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/fe5e91411d916c88f42e09ec8c3eb54d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/b510b2d9464e4fc42265bb890b2e512d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/b510b2d9464e4fc42265bb890b2e512d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/0063a42fda50fb074eefc4cbc415502e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/0063a42fda50fb074eefc4cbc415502e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/788605cb58074c001c91b48fd7671e9f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/788605cb58074c001c91b48fd7671e9f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/a5c50bf285f623711ea6e0e00db58980/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/a5c50bf285f623711ea6e0e00db58980/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/d372a6e24ce1bc1a95aad959a2bb505e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/d372a6e24ce1bc1a95aad959a2bb505e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/6bf983ff51586535f5ba475379d4a55c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/6bf983ff51586535f5ba475379d4a55c/AndroidManifest.xml:20:5-44
+MERGED from [com.halfhp.fig:figlib:1.0.7] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/03996b7dfc946a87988df48bbf9fc9c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.halfhp.fig:figlib:1.0.7] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/03996b7dfc946a87988df48bbf9fc9c5/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+		ADDED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/feiwenchang/Downloads/PDIOT/PDIoT-master/cuberGraphNowindows/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:12:22-71
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.7.0] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/3b68b3de34ce2da5a6004cee23903d18/AndroidManifest.xml:14:29-85
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:2.0.1] /Users/feiwenchang/.gradle/caches/transforms-2/files-2.1/263a490b317a07ab72175d19e7563cc1/AndroidManifest.xml:13:13-86
